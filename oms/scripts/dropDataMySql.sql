@@ -1,4 +1,3 @@
-use _055_DB;
 
 delete from  `_055_db`.`OrderItems`;
 alter table OrderItems auto_increment=1;
