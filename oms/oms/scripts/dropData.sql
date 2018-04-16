@@ -1,4 +1,4 @@
-
+use mydb
 
 delete from  OrderItems
 DBCC CHECKIDENT (OrderItems,RESEED, 0)

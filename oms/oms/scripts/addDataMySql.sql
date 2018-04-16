@@ -1,4 +1,4 @@
-
+use mydb;
 
 
 insert into Roles(RoleName) values('Administrator');
